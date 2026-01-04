@@ -2,9 +2,9 @@ import math
 
 
 one_names = [
-    [["zero", 2], ["zeroeth", 2]],
-    [["one", 1], ["first", 1]],
-    [["two", 1, 1], ["second", 2]],
+    [["zéro", 2], ["zéroième", 3]],
+    [["un", 1], ["entier", 2]],
+    [["deux", 1, 1], ["moitié", 2]],
     [["three", 1], ["third", 1]],
     [["four", 1], ["fourth", 1]],
     [["five", 1], ["fifth", 1]],
